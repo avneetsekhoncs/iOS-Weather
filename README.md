@@ -16,4 +16,6 @@ A swift weather application with dark-mode enabled. You'll be able to check the 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
+![](https://github.com/avneetsekhoncs/iOS-Weather/blob/main/Weather%20Demo.gif)
+
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
