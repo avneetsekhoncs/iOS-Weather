@@ -1,5 +1,5 @@
 # iOS-Weather
-A swift weather application with dark-mode enabled. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. Base project from "iOS &amp; Swift - The Complete iOS App Development Bootcamp" by Dr. Anegla Yu on Udemy.
+A swift weather application with dark-mode enabled. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
 
 ## Learning Points
 
